@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Siva Kumar Reddy V
+Build-Jdk: 17
+Implementation-Title: Skeleton-jdbc-basic
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dcsb.jdbc.h2.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/Skeleton-jdbc
+ -basic
+Created-By: Maven Integration for Eclipse
+
